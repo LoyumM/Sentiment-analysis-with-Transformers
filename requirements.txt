@@ -4,3 +4,4 @@ pandas
 transformers
 numpy
 tensorflow
+matplotlib
