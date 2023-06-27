@@ -1,0 +1,6 @@
+kaggle
+zipfile
+pandas
+transformers
+numpy
+tensorflow
