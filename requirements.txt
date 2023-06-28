@@ -1,7 +1,7 @@
 kaggle
-zipfile
 pandas
 transformers
 numpy
 tensorflow
 matplotlib
+ipykernel
